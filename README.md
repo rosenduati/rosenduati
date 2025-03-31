@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rosenduati" alt="rosenduati" /></a> </p>
 
-- 🔭 I’m currently working on **frontend projects**
+- 🔭 I’m currently working on **MERN-stack projects**
 
 - 🌱 I’m currently learning **machine learning**
 
