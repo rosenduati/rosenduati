@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nduati Rosemary</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate software developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosenduati&label=Profile%20views&color=0e75b6&style=flat" alt="rosenduati" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **frontend projects**
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **machine learning**
 
-- 👯 I’m looking to collaborate on **open source frontend projects**
+- 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **react, javascript, python**
 
 - 📫 How to reach me **rose.nduati06@gmail.com**
 
